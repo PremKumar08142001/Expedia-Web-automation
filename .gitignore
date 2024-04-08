@@ -1,0 +1,19 @@
+# Maven specific
+target/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# NetBeans specific
+nb-configuration.xml
+build/
+nbproject/private/
